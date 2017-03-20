@@ -1,6 +1,6 @@
 # Interwoven-Dataset
 
-This is a dataset consisting of five clips by selecting 2-3 tracks.with highly interwoven streams from several music and speech.Three clips are selected from the MedleyDB dataset [1], One is from the MIREX MultiF0 Development Dataset, and the final from the CHAIN-Corpus [2].To simulate the 2-channel effect, all song is remix use the open-source room acoustics simulator, Roomsim, to simulate the performance in a room and recordings are made by two microphone [3]."For those tracks where F0 labels not provided in [1][2], we adopted the following procedure to get the F0 labels:
+This is a dataset consisting of five clips by selecting 2-3 tracks with highly interwoven streams from several music and speech.Three clips are selected from the MedleyDB dataset [1], One is from the MIREX MultiF0 Development Dataset, and the final from the CHAIN-Corpus [2].To simulate the 2-channel effect, all song is remix use the open-source room acoustics simulator, Roomsim, to simulate the performance in a room and recordings are made by two microphone [3]."For those tracks where F0 labels not provided in [1][2], we adopted the following procedure to get the F0 labels:
 
 1. Use the YIN algorithm [4] to obtain a rough estimation of F0 for each frame.
 2. Detect and remove the silent frames according to the RMS energy.
