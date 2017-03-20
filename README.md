@@ -8,8 +8,11 @@ This is a dataset consisting of five clips by selecting 2-3 tracks with highly i
 4. Set the high and low limits of pitch detection. " 
 
 [1]Rachel M Bittner, Justin Salamon, Mike Tierney, Matthias Mauch, Chris Cannam, and Juan Pablo Bello, “Medleydb: A multitrack dataset for annotation-intensive mir research.,” in ISMIR, 2014, pp. 155–160.
+
 [2]Fred Cummins, Marco Grimaldi, Thomas Leonard, and Juraj Simko, “The chains corpus: Characterizing individual speakers,” in Proc of SPECOM, 2006, vol. 6, pp. 431–435.
+
 [3]D Campbell, K Palomaki, and G Brown, “A matlab simulation of “shoebox” room acoustics for use in research and teaching,” Computing and Information Systems, vol. 9, no. 3, pp.48, 2005.
+
 [4]A. de Cheveigné and H. Kawahara, “Yin, a fundamental frequency estimator for speech and music,” J. Acoust. Soc. Amer., vol. 111, pp.1917–1930, 2002.
 
 Chih Yi Kuan 2017/3/08
